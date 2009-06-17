@@ -1,13 +1,7 @@
-#summary One-sentence summary of this page.
+#summary -
 
-= Introduction =
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Currently WDatMaker is a bit complicated. To run it:
+# Download sources of mewiki
+# Download one of dumps from http://download.wikipedia.org
+# Execute in directory <code>wiki-0.1.1</code>: 
+<code>python -m wikis60.db.wiki dest.wdat source.xml</code>
