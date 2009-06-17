@@ -1,7 +1,7 @@
 #summary -
 
 Currently WDatMaker is a bit complicated. To run it:
-* Download sources of mewiki
-* Download one of dumps from http://download.wikipedia.org
-* Execute in directory wiki-0.1.1: 
+ * Download sources of mewiki
+ * Download one of dumps from http://download.wikipedia.org
+ * Execute in directory wiki-0.1.1: 
 <code>python -m wikis60.db.wiki dest.wdat source.xml</code>
