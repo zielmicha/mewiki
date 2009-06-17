@@ -1,0 +1,23 @@
+a {
+	color: blue;
+	text-decoration: underline;
+}
+a:hover {
+	color: #0000aa;
+	text-decoration: none;
+}
+h1 {
+	border-bottom: 1px solid blue;
+}
+body {
+	background: #f9f9f9 url(/f/headbg.jpg) 0 0 no-repeat;
+}
+#ls {
+	background: white;
+	border: 1px solid black;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+.error {
+	color: red;
+}
